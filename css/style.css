@@ -1,0 +1,27 @@
+body {
+    font: 20px verdana;
+}
+.navbar {
+    background-color: antiquewhite;
+
+}
+.quem_sou {
+    background-color: rgb(185, 209, 211);
+    color:aliceblue;
+    
+}
+.margin {
+    padding-top: 10px ;
+    padding-bottom: 50px;
+    
+}
+.parceiros {
+    background-color: burlywood;
+}
+.margin_text {
+    margin-top: 10px;
+}
+.bg-footer {
+    background-color:black;
+    color:aliceblue
+}
